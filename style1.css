@@ -1,0 +1,67 @@
+body {
+	background: #000000;
+	background-image: url(http://static1.squarespace.com/static/559de0e4e4b072f293ce418b/559de2c8e4b09fe0c9c619ff/56abc39a25981d66e600fac3/1454097308098/DSC_0018.jpg?format=750w);
+	background-repeat: no-repeat;
+ 	background-size: 1500px 1000px;
+ 
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #FF1493;
+    font-size: 56px;
+}
+
+a:active {
+
+    color: white;
+}
+
+
+.sub-head {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	font-size: 96px;
+	text-shadow: 2px 2px #000000;
+	display: inline;
+	border-color: white;
+	border-style: solid;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+
+}
+
+.head2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: white;
+	font-size: 36px;
+	align-content: center;
+	text-shadow: 2px 2px #000000;
+	word-spacing: 10px;
+}
+
+#rcorners1 {
+    border-radius: 20px;
+    padding-left: 1550px; 
+    padding-top: 10px;
+    width: 300px;
+    color: white;
+    height: 150px; 
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    font-size: 32px;
+}
+
+.font {
+	    color: #FF1493;
+}
